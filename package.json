@@ -1,0 +1,24 @@
+{
+  "name": "angular2-practice",
+  "version": "1.0.0",
+  "description": "Angular 2 practice app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelJC91/angular2-practice.git"
+  },
+  "author": "Michael Carniato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelJC91/angular2-practice/issues"
+  },
+  "homepage": "https://github.com/MichaelJC91/angular2-practice#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  }
+}
